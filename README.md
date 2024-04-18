@@ -9,3 +9,4 @@
 ## Setup
 - Restore the GOLF_WAREHOUSE database back-up
 - Execute the two Create Scripts (Create Table and Create Trigger)
+- Make sure to change the connection string found in appsettings.json

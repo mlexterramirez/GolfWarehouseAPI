@@ -7,6 +7,5 @@
 - Visual Studio 2022 or Visual Studio Code
 
 ## Setup
-- Download and unzip GolfWarehouseAPI.rar
 - Restore the GOLF_WAREHOUSE database back-up
-- Execute the two Create Scripts found in the GolfWarehouseAPI.rar
+- Execute the two Create Scripts (Create Table and Create Trigger)
